@@ -12,8 +12,8 @@ This is same to address bits, but with more bits.
 I used this to repair corrupted ROM file caused by wrong data and address pin wiring when dumping.
 
 ## How to use
-Rename the file's name to source.hex, then launch the program.
+Rename the file's name to "source.hex", then launch the program.
 
 Enter byte bit order first, then address bit order. (to skip typing, just type any alphabet)
 
-The converted file will be created into converted.hex
+The converted file "converted.hex" will be created after it's done.
