@@ -8,3 +8,5 @@ It also can process much more complex ones like 3 2 6 4 7 0 5 1.
 ![example.png](https://github.com/yclee126/BitAdrSwap/blob/master/example.png)
 
 This is same to address bits, but with more bits.
+
+I used this to repair corrupted ROM file caused by wrong data and address pin wiring when dumping.
