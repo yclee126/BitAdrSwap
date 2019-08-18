@@ -6,3 +6,5 @@ For example, typing 7 6 5 4 0 2 1 3 will swap bit 0 and bit 3.
 It also can process much more complex ones like 3 2 6 4 7 0 5 1.
 
 ![example.png](https://github.com/yclee126/BitAdrSwap/blob/master/example.png)
+
+This is same to address bits, but with more bits.
