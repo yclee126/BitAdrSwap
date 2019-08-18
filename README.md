@@ -14,6 +14,6 @@ I used this to repair corrupted ROM file caused by wrong data and address pin wi
 ## How to use
 Rename the file's name to source.hex, then launch the program.
 
-Enter byte bit order first, then address bit order.
+Enter byte bit order first, then address bit order. (to skip typing, just type any alphabet)
 
 The converted file will be created into converted.hex
