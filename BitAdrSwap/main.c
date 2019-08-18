@@ -2,7 +2,7 @@
 BitAdrSwap v1.2
 by yclee126
 Aug 08, 2019
-https://www.github.com
+https://github.com/yclee126/BitAdrSwap
 
 It Swaps byte bits and address bits!
 Type target bit order to start swapping.
