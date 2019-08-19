@@ -25,4 +25,4 @@ It makes a bitshift table from user input
 Then it swaps bits by bitshift operation if the original bit is 1.
 
 ## Misc
-Compiled with Visual Studio 15
+Made with Visual Studio 15
