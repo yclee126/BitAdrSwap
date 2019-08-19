@@ -17,3 +17,6 @@ Rename the file's name to "source.hex", then launch the program.
 Enter byte bit order first, then address bit order. (to skip typing, just type any alphabet)
 
 The converted file "converted.hex" will be created after it's done.
+
+## Misc
+Compiled with Visual Studio 15
