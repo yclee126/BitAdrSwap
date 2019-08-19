@@ -22,7 +22,7 @@ The converted file "converted.hex" will be created after it's done.
 It makes a bitshift table from user input
 * bitTable[original bit position] = swapped bit position
 
-Then it swapps bits by bitshift operation if the original bit is 1.
+Then it swaps bits by bitshift operation if the original bit is 1.
 
 ## Misc
 Compiled with Visual Studio 15
