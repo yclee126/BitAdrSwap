@@ -1,8 +1,8 @@
 /*
-BitAdrSwap v1.2
+v1.2
 by yclee126
 Aug 08, 2019
-https://github.com/yclee126/BitAdrSwap
+https://github.com/yclee126/BitSwap
 
 It Swaps byte bits and address bits!
 Type target bit order to start swapping.
@@ -29,8 +29,8 @@ Fixed excess address bit swapping (performance improved)
 #include <stdint.h>
 #include <windows.h>
 #include <stdbool.h>
-#define VERSIONINFO "BitAdrSwap v1.2\n"
-#define WEBSITEINFO "https://github.com/yclee126/BitAdrSwap\n"
+#define VERSIONINFO "BitSwap v1.2\n"
+#define WEBSITEINFO "https://github.com/yclee126/BitSwap\n"
 #pragma warning(disable: 4996)
 
 int main() {
